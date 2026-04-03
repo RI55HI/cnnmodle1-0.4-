@@ -1,5 +1,5 @@
 # cnnmodle1-0.4-
-fiest model that i have created 
+frist  model that i have created 
 **Skin Cancer Detection Using Convolutional Neural Networks (CNN)**
 Overview
 This project implements a Convolutional Neural Network (CNN) for the detection of skin cancer, specifically focusing on classifying dermatoscopic images as benign or malignant. The model is designed to assist dermatologists in diagnosing skin cancer by analyzing skin lesions efficiently and accurately.
